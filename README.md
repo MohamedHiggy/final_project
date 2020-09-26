@@ -199,9 +199,3 @@ all system data of client and driver
 ### client
 
 ### Car Owners
-
-## Required
-
-## primary
-
-## optional
