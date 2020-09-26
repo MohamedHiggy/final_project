@@ -1,4 +1,3 @@
-# final_project
 # Self Driving Car
 
 ## apps
